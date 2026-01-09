@@ -6,7 +6,7 @@ Implement a Nurses Shift Payroll System that ensures fair shift distribution and
 To enhance payroll transparency and fairness by automating shift allocation, attendance tracking, and salary computation for nurses working day and night shifts.
 ## student information
 Course: bachelor of business in INFORMATION TECHNOLOGY
-Imstitution: Dedan Kimathi University of Technology
+Institution: Dedan Kimathi University of Technology
 Year:2025
 ## Live Website
 The project is hosted on infinity free and can be accessed here:
